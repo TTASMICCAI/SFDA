@@ -185,7 +185,7 @@ make -f prostate.make <a> -B
 
 Only print the commands that will be run (useful to check recipes are properly defined):
 ```
-make -f prostate.make <a> -n
+make -f prostate.make <a> -n 
 ```
 
 
